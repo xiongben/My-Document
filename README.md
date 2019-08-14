@@ -6,3 +6,4 @@
 *  The waste of performance                   性能浪费
 *  render                                      渲染
 *  agency                                      代理
+*  delegation    委托
