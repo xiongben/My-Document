@@ -41,3 +41,4 @@
 *  Class-oriented language               面向对象语言
 *  Constructors                        构造函数
 *  Instantiate                            初始化，实例化
+*  Instance                              实例
